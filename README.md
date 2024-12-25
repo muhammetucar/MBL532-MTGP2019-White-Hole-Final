@@ -4,6 +4,10 @@
 
 [TR] Processing3 ortamında tek bir kameradan gerçek zamanlı üç boyutlu derinlik algısı görüntüleri ile hazırlanan dijital pin art stili interaktif enstalasyon. MBL532 için final ödevi olarak hazırlanmış olup, Hollanda'daki Dutch Design Week 2019 boyunca sergilenmiştir. 
 
+[Video Link](https://vimeo.com/344997320)
+[DDW Link](https://ddw.nl/en/programme/1732/white-hole)
+[Instagram Link for Exhibition Pics-Videos](https://www.instagram.com/ucarrworks/)
+
 [![Image](https://i.hizliresim.com/lno1ywl.gif)](https://hizliresim.com/lno1ywl)
 
 [![Image](https://i.hizliresim.com/nmo3tnb.jpg)](https://hizliresim.com/nmo3tnb)
