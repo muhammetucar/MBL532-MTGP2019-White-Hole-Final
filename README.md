@@ -21,6 +21,7 @@ Code date: 24/06/2019
 DutchDesignWeek Exhibition Date: 19-27/10/2019
 
 Endless thanks to tangiblecoding for allowing me to take part in DDW, for all their support and for all their efforts.
+
 Used referances available in pdf.
 
 [TR] Kodlar Processing 3 (3.5.3) ortamında yazılmıştır. Ek kütüphaneler gerekebilir. Çalıştırmadan önce lütfen kontrol edin.
@@ -31,4 +32,5 @@ Kod tarihi: 24/06/2019
 DutchDesignWeek sergi tarihi: 19-27/10/2019
 
 DDW'de yer almamı sağladıkları, ellerinden gelen imkanı esirgemedikleri ve her türlü desteklerinden ötürü tangiblecoding'e sonsuz teşekkürler.
+
 Kaynakça pdf içinde yer almaktadır.
